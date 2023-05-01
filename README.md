@@ -1,2 +1,2 @@
-# JHY.github.iQQ
-的微信加好友
+# JHY.github.i
+QQ 微信加好友
